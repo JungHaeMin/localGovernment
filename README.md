@@ -65,6 +65,7 @@
             * https://www.getpostman.com/downloads/
         3.  각 모듈에 위에 정의된 값에 따라 테스트 진행
             * ex ![img](./img.JPG)
+         ** 실행이 안된다면 settings-build,execution,deployment-annotation processors 에서 enable annotation processing 체크!
     2) TEST
         1. TEST-JAVA-hyemin.forkakaopay-ApplicationTests 에서 각 모듈 옆에 을 클릭하여 RUN 수행
             * log 값 확인
